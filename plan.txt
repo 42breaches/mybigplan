@@ -1,0 +1,6 @@
+1) Extract the algorithm from the backdoor that i seen on the 42 intranet
+2) Put it in a safeplace
+3) Tease the 42 Network with my twitter account
+4) Reveal the algorithm and see all the 42 Networks crashing
+
+flag42{c0mm1ts_n3v3r_d1e}
